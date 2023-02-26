@@ -1,1 +1,1 @@
-# Diabetes_MachineLearning
+# Students' dropout and academic success prediction
