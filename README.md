@@ -35,4 +35,5 @@ Table 2
 ### Citation of the data 
 
 Realinho, V.; Machado, J.; Baptista, L.; Martins, M.V. (2022) "Predicting Student Dropout and Academic Success". Data, 7, 146. DOI: 10.3390/data7110146
+
 M. V. Martins, D. Tolledo, J. Machado, L. M. T. Baptista, V. Realinho. (2021) "Early prediction of student’s performance in higher education: a case study" Trends and Applications in Information Systems and Technologies, vol.1, in Advances in Intelligent Systems and Computing series. Springer. DOI: 10.1007/978-3-030-72657-7_16
