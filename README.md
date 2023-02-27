@@ -1,5 +1,20 @@
 # Students' dropout and academic success prediction
 
+
+## Overview of the project 
+
+Every year, a large number of students dropout of school worldwide. This involves economic and social factors of a country. Education failure represents an obstacle to economic growth, employment, competitiveness, and productivity, directly impacting the lives of students and their families, higher education institutions, and society as a whole. 
+
+We decided to choose this dataset because it represents an interesting topic among the population, due to the fact that academic success is a factor for jobs, social justice, and economic growth. 
+
+On the other hand, dropout represents one of the most problematic issues that higher education institutions must address to improve their success. According to Oxford Languages, a dropout as a noun, is defined as a person who has abandoned a course of study or who has rejected conventional society to pursue an alternative lifestyle.
+
+The proportion of students who dropout varies between different studies depending on the calculation methods and data sources.  
+
+With the help of different visualizations and machine learning, we will be able to predict the percentage of students' dropout and academic success. In this way, decisions related to this are gonna be made with a solid foundation. 
+
+
+
 ## Dataset Information 
 
 This dataset includes several attributes about social-economic factors and academic performance information, as well as demographic, socioeconomic and macroeconomic data. This information is going to be used to analyze possible predictors of student’s dropout and academic success of undergraduate degrees offered at a higher education institution. In addition to that, the current dataset is useful for conducting comparative studies on student academic performance and also for training in the machine learning area.This analysis has the objective of providing valuable insights regarding the motivations of the students to stay in school or abandon their studies to focus in other areas. 
