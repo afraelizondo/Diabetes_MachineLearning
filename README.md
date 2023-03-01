@@ -26,7 +26,10 @@ The data sources used consist of internal and external data from the institution
 3. Annual data from the General Directorate of Higher Education (DGES) regarding admission through the National Competition for Access to Higher Education (CNAES).
 4. Contemporary Portugal Database (PORDATA) regarding macroeconomic data.
 
-The data refer to records of students enrolled between the academic years 2008/2009 to 2018/2019. These include data from 17 undergraduate degrees from different fields of knowledge, such as agronomy, design, education, nursing, journalism, management, social service, and technologies. The final dataset is available as a comma-separated values (CSV) file encoded as UTF8 and consists of roughly 3600 records.
+The data refer to records of students enrolled between the academic years 2008/2009 to 2018/2019. These include data from 17 undergraduate degrees from different fields of knowledge, such as agronomy, design, education, nursing, journalism, management, social service, and technologies. 
+
+The final dataset is available as a comma-separated values (CSV) file encoded as UTF8 and consists of roughly 3600 records. In order to get this final set, we performed the data cleaning in Jupyter Notebook, creating 2 tables with the same amount of rows. 
+
 
 The categories are listed below:
 
