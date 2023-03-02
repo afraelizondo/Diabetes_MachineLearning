@@ -1,4 +1,4 @@
-# Students' dropout and academic success prediction
+# Students dropout and academic success prediction
 
 
 ## Overview of the project 
