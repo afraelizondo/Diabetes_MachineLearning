@@ -1,4 +1,4 @@
-ID,Mother's occupation,Father's occupation,Gender,Daytime/evening attendance,Target
+ID,mother_occupation,father_occupation,gender,Daytime_evening_attendance,Target
 0,6,10,1,1,Dropout
 1,4,4,1,1,Graduate
 2,10,10,1,1,Dropout
