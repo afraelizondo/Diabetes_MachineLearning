@@ -232,3 +232,6 @@ M. V. Martins, D. Tolledo, J. Machado, L. M. T. Baptista, V. Realinho. (2021) "E
 4. Which are the existing gaps in accessibility across different student populations?
 
 By answering these questions, research insight is generated which will provide critical information for the formulation of strategies that promote successful degree completion among students from different backgrounds; by understanding students' academic progress and identify areas of improvement from both an individual and institutional perspective.
+
+
+## Machine Learning Models Results
