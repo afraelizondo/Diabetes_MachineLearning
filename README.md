@@ -39,7 +39,7 @@ The categories are listed below:
 
 <img width="308" alt="Screen Shot 2023-03-08 at 10 24 08 AM" src="https://user-images.githubusercontent.com/113856917/223770919-9fcca89d-ab38-4e8e-b599-a04c0192adc0.png">
 
-The following are the corresponding values for each attribute
+The following are the corresponding values for each attribute;
 
 → **Mother’s and Father’s qualifications**
 
