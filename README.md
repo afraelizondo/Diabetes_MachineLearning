@@ -261,4 +261,17 @@ In this Machine Learning Model there is an accuracy level of 67%, which is an ac
 
 <img width="753" alt="Screen Shot 2023-03-09 at 4 21 37 PM" src="https://user-images.githubusercontent.com/113856917/224179511-0b0ca9b5-ebca-4a6e-86d0-c36172b65674.png">
 
+### Balanced Random Forest Claasifier
+
+This technique consists in 
+
+By applying this algorithm, 
+
+In this ML Model there is an accuracy of 
+
+<img width="327" alt="Screen Shot 2023-03-09 at 17 57 45" src="https://user-images.githubusercontent.com/114015620/224188046-61a62dfd-e76a-4f4f-a6f9-2686612e806c.png">
+
+The imbalances classification report
+
+<img width="683" alt="Screen Shot 2023-03-09 at 17 57 25" src="https://user-images.githubusercontent.com/114015620/224188000-1ec5b06f-8c83-4994-aeb2-1cb7df87c448.png">
 
