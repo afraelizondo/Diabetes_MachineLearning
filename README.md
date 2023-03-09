@@ -235,3 +235,30 @@ By answering these questions, research insight is generated which will provide c
 
 
 ## Machine Learning Models Results
+
+
+The following attributes were used for the application of the models, : "mother_occupation", "father_occupation", "gender", "Daytime_evening_attendance", "marital_status", "Application_mode", "Course", "Previous_qualification", "Mother_qualification", "Father_qualification" and "Target". 
+
+"Nationality" column was removed due to the fact that performing this step, we obtained a higher level of accuracy overall. 
+
+For the pd.get_dummies function, we used the columns "mother_occupation", "father_occupation", "gender", "marital_status" and "Application_mode", so it was easier for the model to make a classification. 
+
+The target value counts were:
+- Dropout(0)= 1421
+- Graduated (1) = 2209
+
+Before performing the machine learning models, we used the train_test_split from the sklearn.model_selection, so we could get the values for both outputs, in this case:
+- Dropout(0)= 1066
+- Graduated (1) = 1656
+
+### Random Naive Oversampling
+
+This technique involves randomly duplicating examples from the minority class in the training dataset with replacement, and adding them to the training dataset.
+
+After implementing the Random Over Sampler, and getting the exact same amount of values for output 0 and 1, the Logistic Regression model was used with this resampled data. 
+
+In this Machine Learning Model there is an accuracy level of 67%, which is an acceptable level of accuracy in the field we are performing the analysis. The imbalanced classification report for this case, looks like this:
+
+<img width="753" alt="Screen Shot 2023-03-09 at 4 21 37 PM" src="https://user-images.githubusercontent.com/113856917/224179511-0b0ca9b5-ebca-4a6e-86d0-c36172b65674.png">
+
+
