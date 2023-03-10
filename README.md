@@ -257,7 +257,7 @@ This technique involves randomly duplicating examples from the minority class in
 
 After implementing the Random Over Sampler, and getting the exact same amount of values for output 0 and 1, the Logistic Regression model was used with this resampled data. 
 
-In this Machine Learning Model there is an accuracy level of 67%, which is an acceptable level of accuracy in the field we are performing the analysis.
+In this Machine Learning Model there is an accuracy level of 67%, which is an acceptable level of accuracy in the field we are performing the analysis, but is not the best. 
 
 The confusion matrix shows that there are 219 True Positives and 154 False Positives; 399 True Negative and 136 False Negative, this explains with numbers why we got only a 66.9% of accuracy. 
 
