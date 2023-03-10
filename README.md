@@ -302,13 +302,14 @@ Imbalanced classification report, an F1 score of 0.678 suggests that the model h
 
 
  ![image](https://user-images.githubusercontent.com/113708861/224208379-440e8e32-99ac-43ce-88a2-de6b0cd6d589.png)
+ 
 In this ML Model there is an accuracy of 90.70%, meaning that this has high levels of accuracy
 
 ![image](https://user-images.githubusercontent.com/113708861/224208533-a3f6c26c-1c1c-42a3-8dd3-3a83cc2c41c1.png)
 
 
 
- ![image](https://user-images.githubusercontent.com/113708861/224208278-0c419684-c4c7-478d-973e-7f3e7670be04.png)
+![image](https://user-images.githubusercontent.com/113708861/224208278-0c419684-c4c7-478d-973e-7f3e7670be04.png)
 
 
 The classification report, with an F1 score of 0.92 suggests that the model has good accuracy levels. 
