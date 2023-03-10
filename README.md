@@ -293,15 +293,15 @@ Imbalanced classification report, an F1 score of 0.678 suggests that the model h
 
 ### Cluster Centroid Undersampling
 
- This is technique used in data preprocessing for imbalanced classification problems. It involves identifying clusters within the majority class and then undersampling the majority class by replacing each cluster with its centroid.
+ This technique is used in data preprocessing for imbalanced classification problems. It involves identifying clusters within the majority class and then undersampling the majority class by replacing each cluster with its centroid.
  
  
- False negatives is 510 vs 318 true positives
+ True negatives are 510 vs 318 true positives.
 
 
  ![image](https://user-images.githubusercontent.com/113708861/224208379-440e8e32-99ac-43ce-88a2-de6b0cd6d589.png)
  
-In this ML Model there is an accuracy of 90.70%, meaning that this has high levels of accuracy
+In this Machine Learning Model there is an accuracy of 90.70%, meaning that this has a high level of accuracy, throwing only 40 false negatives and 40 false positives.
 
 ![image](https://user-images.githubusercontent.com/113708861/224208533-a3f6c26c-1c1c-42a3-8dd3-3a83cc2c41c1.png)
 
@@ -310,4 +310,4 @@ In this ML Model there is an accuracy of 90.70%, meaning that this has high leve
 ![image](https://user-images.githubusercontent.com/113708861/224208278-0c419684-c4c7-478d-973e-7f3e7670be04.png)
 
 
-The classification report, with an F1 score of 0.92 suggests that the model has good accuracy levels. 
+The classification report, with an F1 score of 0.92 suggests that the model has very good accuracy levels, which makes it the most reliable model for our dataset prediction. 
