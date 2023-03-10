@@ -257,7 +257,15 @@ This technique involves randomly duplicating examples from the minority class in
 
 After implementing the Random Over Sampler, and getting the exact same amount of values for output 0 and 1, the Logistic Regression model was used with this resampled data. 
 
-In this Machine Learning Model there is an accuracy level of 67%, which is an acceptable level of accuracy in the field we are performing the analysis. The imbalanced classification report for this case, looks like this:
+In this Machine Learning Model there is an accuracy level of 67%, which is an acceptable level of accuracy in the field we are performing the analysis.
+
+The confusion matrix shows that there are 219 True Positives and 154 False Positives; 399 True Negative and 136 False Negative, this explains with numbers why we got only a 66.9% of accuracy. 
+
+
+<img width="195" alt="Screen Shot 2023-03-09 at 7 08 09 PM" src="https://user-images.githubusercontent.com/113856917/224197887-1d70ce1b-b019-4ce8-89ca-3c982944b480.png">
+
+
+Lastly, the imbalanced classification report for this case, looks like this:
 
 <img width="753" alt="Screen Shot 2023-03-09 at 4 21 37 PM" src="https://user-images.githubusercontent.com/113856917/224179511-0b0ca9b5-ebca-4a6e-86d0-c36172b65674.png">
 
