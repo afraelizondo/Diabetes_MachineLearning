@@ -263,11 +263,11 @@ In this Machine Learning Model there is an accuracy level of 67%, which is an ac
 
 ### Balanced Random Forest Claasifier
 
-This technique consists in 
+This technique consists in a variant of the Random Forest algorithm, which randomly samples the same number of observations from each class.
 
-By applying this algorithm, 
+By applying this algorithm, we obtained the following results.
 
-In this ML Model there is an accuracy of 
+In this ML Model there is an accuracy of 67.70%.
 
 <img width="327" alt="Screen Shot 2023-03-09 at 17 57 45" src="https://user-images.githubusercontent.com/114015620/224188046-61a62dfd-e76a-4f4f-a6f9-2686612e806c.png">
 
@@ -275,3 +275,4 @@ The imbalances classification report
 
 <img width="683" alt="Screen Shot 2023-03-09 at 17 57 25" src="https://user-images.githubusercontent.com/114015620/224188000-1ec5b06f-8c83-4994-aeb2-1cb7df87c448.png">
 
+Imbalanced classification report f1-score 0.68,  0.32
