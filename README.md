@@ -283,9 +283,7 @@ Confussion matrix
 
 <img width="333" alt="Screen Shot 2023-03-09 at 18 24 28" src="https://user-images.githubusercontent.com/114015620/224191587-cf783b3e-88cf-4c0c-88fb-f93a55f75d1a.png">
 
-False negatives is 375 vs 240 true positives
-
-The high number of False Negatives in this case indicates that the model is missing a significant number of students who are actually dropping out. This can be a problem because resources may be allocated to students who are predicted to graduate but end up dropping out, also the predictive model may fail to identify students who are at risk of dropping out, making it difficult to implement interventions to prevent dropout.
+False negatives is 178 vs 240 true positive, the model is better at predicting which students are likely to dropout than it is at predicting which students will not dropout. Specifically, the model correctly identifies 240 students who are likely to dropout (true positives), but it fails to identify 178 students who actually dropout (false negatives).
 
 The imbalanced classification report is as follows
 
@@ -293,7 +291,7 @@ The imbalanced classification report is as follows
 
 Imbalanced classification report, an F1 score of 0.678 suggests that the model has reasonable precision and recall for predicting whether a student will graduate or not.
 
-###Cluster Centroid Undersampling
+### Cluster Centroid Undersampling
 
  This is technique used in data preprocessing for imbalanced classification problems. It involves identifying clusters within the majority class and then undersampling the majority class by replacing each cluster with its centroid.
  
