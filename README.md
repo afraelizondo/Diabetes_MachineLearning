@@ -267,12 +267,20 @@ This technique consists in a variant of the Random Forest algorithm, which rando
 
 By applying this algorithm, we obtained the following results.
 
-In this ML Model there is an accuracy of 67.70%.
+In this ML Model there is an accuracy of 67.70%, it means that the model correctly classified 67.7% of the instances in the dataset.
 
 <img width="327" alt="Screen Shot 2023-03-09 at 17 57 45" src="https://user-images.githubusercontent.com/114015620/224188046-61a62dfd-e76a-4f4f-a6f9-2686612e806c.png">
 
-The imbalances classification report
+Confussion matrix 
+
+<img width="333" alt="Screen Shot 2023-03-09 at 18 24 28" src="https://user-images.githubusercontent.com/114015620/224191587-cf783b3e-88cf-4c0c-88fb-f93a55f75d1a.png">
+
+False negatives is 375 vs 240 true positives
+
+The high number of False Negatives in this example indicates that the model is missing a significant number of students who are actually dropping out. This can be a problem because resources may be allocated to students who are predicted to graduate but end up dropping out, also the predictive model may fail to identify students who are at risk of dropping out, making it difficult to implement interventions to prevent dropout.
+
+The imbalanced classification report is as follows
 
 <img width="683" alt="Screen Shot 2023-03-09 at 17 57 25" src="https://user-images.githubusercontent.com/114015620/224188000-1ec5b06f-8c83-4994-aeb2-1cb7df87c448.png">
 
-Imbalanced classification report f1-score 0.68,  0.32
+Imbalanced classification report, an F1 score of 0.678 suggests that the model has reasonable precision and recall for predicting whether a student will graduate or not.
