@@ -277,7 +277,7 @@ Confussion matrix
 
 False negatives is 375 vs 240 true positives
 
-The high number of False Negatives in this example indicates that the model is missing a significant number of students who are actually dropping out. This can be a problem because resources may be allocated to students who are predicted to graduate but end up dropping out, also the predictive model may fail to identify students who are at risk of dropping out, making it difficult to implement interventions to prevent dropout.
+The high number of False Negatives in this case indicates that the model is missing a significant number of students who are actually dropping out. This can be a problem because resources may be allocated to students who are predicted to graduate but end up dropping out, also the predictive model may fail to identify students who are at risk of dropping out, making it difficult to implement interventions to prevent dropout.
 
 The imbalanced classification report is as follows
 
