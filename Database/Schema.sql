@@ -20,7 +20,6 @@ CREATE TABLE qualification (
 	Previous_qualification INT NOT NULL,
 	Mother_qualification INT NOT NULL,
 	Father_qualification INT NOT NULL,
-	Target VARCHAR(40) NOT NULL,
 	PRIMARY KEY (ID),
 	UNIQUE(ID)
 );
