@@ -292,3 +292,23 @@ The imbalanced classification report is as follows
 <img width="683" alt="Screen Shot 2023-03-09 at 17 57 25" src="https://user-images.githubusercontent.com/114015620/224188000-1ec5b06f-8c83-4994-aeb2-1cb7df87c448.png">
 
 Imbalanced classification report, an F1 score of 0.678 suggests that the model has reasonable precision and recall for predicting whether a student will graduate or not.
+
+###Cluster Centroid Undersampling
+
+ This is technique used in data preprocessing for imbalanced classification problems. It involves identifying clusters within the majority class and then undersampling the majority class by replacing each cluster with its centroid.
+ 
+ 
+ False negatives is 510 vs 318 true positives
+
+
+ ![image](https://user-images.githubusercontent.com/113708861/224208379-440e8e32-99ac-43ce-88a2-de6b0cd6d589.png)
+In this ML Model there is an accuracy of 90.70%, meaning that this has high levels of accuracy
+
+![image](https://user-images.githubusercontent.com/113708861/224208533-a3f6c26c-1c1c-42a3-8dd3-3a83cc2c41c1.png)
+
+
+
+ ![image](https://user-images.githubusercontent.com/113708861/224208278-0c419684-c4c7-478d-973e-7f3e7670be04.png)
+
+
+The classification report, with an F1 score of 0.92 suggests that the model has good accuracy levels. 
