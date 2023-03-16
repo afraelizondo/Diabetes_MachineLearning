@@ -234,6 +234,29 @@ M. V. Martins, D. Tolledo, J. Machado, L. M. T. Baptista, V. Realinho. (2021) "E
 By answering these questions, research insight is generated which will provide critical information for the formulation of strategies that promote successful degree completion among students from different backgrounds; by understanding students' academic progress and identify areas of improvement from both an individual and institutional perspective.
 
 
+## Data Exploration 
+
+Tableau Public: https://public.tableau.com/app/profile/bibiana6825/viz/DropoutPredictionStory/Story2?publish=yes
+
+The following visualization shows that nationality is not a determinant factor for the analysis. 
+
+<img width="166" alt="Screen Shot 2023-03-15 at 21 02 00" src="https://user-images.githubusercontent.com/114015620/225500431-98884913-1cee-462a-a2b1-2fc1d5c8943b.png">
+
+Therefore, it was dropped from the dataframe before Machine Learning Models analysis. 
+
+It was interesting to find that single females graduate the most.
+
+<img width="532" alt="Screen Shot 2023-03-15 at 21 03 13" src="https://user-images.githubusercontent.com/114015620/225500822-534a4381-1c52-4ca2-ab67-72593e76141e.png">
+
+Nursuring is the most studied course.
+
+<img width="689" alt="Screen Shot 2023-03-15 at 21 04 18" src="https://user-images.githubusercontent.com/114015620/225501192-92626fc9-f287-42f4-a653-04cfc43e3579.png">
+
+Almost 50% of evenening students dropout.
+
+<img width="1110" alt="Screen Shot 2023-03-15 at 21 05 02" src="https://user-images.githubusercontent.com/114015620/225501422-a0f04af0-2742-4da3-8ca9-e61c2f136dfd.png">
+
+
 ## Machine Learning Models Results
 
 
