@@ -295,7 +295,7 @@ Lastly, the imbalanced classification report for this case, looks like this:
 
 <img width="753" alt="Screen Shot 2023-03-09 at 4 21 37 PM" src="https://user-images.githubusercontent.com/113856917/224179511-0b0ca9b5-ebca-4a6e-86d0-c36172b65674.png">
 
-### Balanced Random Forest Claasifier
+### Balanced Random Forest Clasifier
 
 This technique consists in a variant of the Random Forest algorithm, which randomly samples the same number of observations from each class.
 
