@@ -1,5 +1,7 @@
 # Students dropout and academic success prediction
 
+<img width="589" alt="Captura de pantalla 2024-09-25 a la(s) 8 04 10 p m" src="https://github.com/user-attachments/assets/4e7464b7-8308-4450-b354-30b051de4778">
+
 
 ## Overview of the project 
 
