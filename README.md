@@ -1,8 +1,5 @@
 # Students dropout and academic success prediction
 
-<img width="589" alt="Captura de pantalla 2024-09-25 a la(s) 8 04 10 p m" src="https://github.com/user-attachments/assets/4e7464b7-8308-4450-b354-30b051de4778">
-
-
 ## Overview of the project 
 
 Every year, a large number of students dropout of school worldwide. This involves economic and social factors of a country. Education failure represents an obstacle to economic growth, employment, competitiveness, and productivity, directly impacting the lives of students and their families, higher education institutions, and society as a whole. 
